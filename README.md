@@ -1,4 +1,8 @@
-# AngularDynamicForms
+# Angular4DynamicFormsModule
+
+All Credit goes to (https://github.com/toddmotto/angular-dynamic-forms/blob/master/app/app.module.ts)[Toddmotto]
+
+This is a dynamic forms module within angular 4.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
